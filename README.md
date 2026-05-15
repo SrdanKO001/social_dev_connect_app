@@ -28,16 +28,7 @@ Visit it at: <a href="https://thedevconnector.herokuapp.com" target="_blank"> ht
 
 ## Quick Start
 
-```bash
-# clone repository
-https://github.com/Theofilos-Chamalis/DevConnector.git
 
-# Install dependencies
-cd devConnector && npm run install-all
-
-# Enter your development & production MongoDB URI & JWT key
-Directory: config/
-```
 
 To run the development server on both backend and frontend:
 
